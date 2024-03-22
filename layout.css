@@ -1,0 +1,108 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #304F4F;
+    padding: 1rem;
+    width: 65rem;
+}
+
+#sailio {
+    border: 10px solid black;
+    margin: 10px;
+}
+
+#section {
+    background-color: black;
+    border: white solid 1rem;
+    color: white;
+    padding: 15px;
+    margin: 10px;
+}
+
+    h1, h2, h3, h4, h5, h6 {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 2.5rem;
+        margin-top: 0,5rem;
+        margin-bottom: 0,5rem;
+    }
+    
+    h1 {
+        color: tan;
+        font-size: 6rem;
+    }
+
+    h2 {
+        color: green;
+        font-size: 5rem;
+    }
+
+    h3 {
+        color: pink;
+        font-size: 4rem;
+    }
+
+    h4 {
+        color: crimson;
+        font-size: 3rem ;
+    }
+
+    h5 {
+        color: darkorange;
+        font-size: 2;
+    }
+
+    h6 {
+        color: deepskyblue;
+        font-size: 1;
+    }
+
+    p {
+        font-size: 1.5rem;
+    }
+
+strong { font-weight: bold;
+    color: black;
+}
+
+.marked {
+    background-color: yellow;
+    font-size: large;
+    color: black;
+}
+
+em {
+    font-style: italic;
+}
+
+.small {
+    font-size: 0.5rem;
+}
+
+.overlined {
+    text-decoration: line-through;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.superscript {
+    vertical-align: super;
+    font-size: small;
+}
+
+.subscript {
+    vertical-align: sub;
+    font-size: small;
+}
+
+
+
+
+
+
+
+
